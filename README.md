@@ -3,7 +3,9 @@
 ![Screenshot 2023-05-09 115516](https://user-images.githubusercontent.com/100788906/237014276-f2a9ca91-208f-4b41-895a-fc995d10ac89.png)
 
 
+# Report Contains 
 
+There is 3 page in this dashboard - Overview, Customer, Service.
 
 # Problem Statement
 
