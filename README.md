@@ -29,7 +29,7 @@ and number of tickets opened in the categories administrative and technical
 
 The Dataset used for this analysis was provided by [Pwc Switzerland](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience) and available at:
 
-- [Churn Dataset]((https://github.com/rishikeshxyadav/PwC-Customer-Retention-Dashboard/blob/main/02%20Churn-Dataset.xlsx))
+- [Churn Dataset](https://github.com/rishikeshxyadav/PwC-Customer-Retention-Dashboard/blob/main/02%20Churn-Dataset.xlsx)
 
 
 
