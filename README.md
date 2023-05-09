@@ -3,9 +3,7 @@
 ![Screenshot 2023-05-09 115516](https://user-images.githubusercontent.com/100788906/237014276-f2a9ca91-208f-4b41-895a-fc995d10ac89.png)
 
 
-# Report Contains 
 
-There is 3 page in this dashboard - Overview, Customer, Service.
 
 # Problem Statement
 
@@ -33,6 +31,30 @@ The Dataset used for this analysis was provided by [Pwc Switzerland](https://www
 
 
 
+# Data Visualization
+
+Data visualization for the dataset was done in 3 folds using Microsoft Power BI Desktop:
+
+
+Figure 1 shows visualizations from `Overview` page
+
+| Figure 1 |
+| ----------- |
+| ![Screenshot 2023-05-09 115516](https://user-images.githubusercontent.com/100788906/237015755-4a1e9cb2-9685-400d-8cbb-9397d105e958.png)
+ 
+
+Figure 2 shows visualizations from `Customer` page
+
+| Figure 2 |
+| ----------- |
+| ![Screenshot 2023-05-09 121413](https://user-images.githubusercontent.com/100788906/237015794-1a5b9deb-6e75-4946-ac0c-c2058011c7a4.png) |
+
+Figure 3 shows visualizations from `Services` page
+
+| Figure 3 |
+| ----------- |
+| ![image](https://user-images.githubusercontent.com/100788906/237016178-dfba6db0-7d42-4eba-9223-06a10b83ffa1.png)
+ 
 
 
 # Insights
